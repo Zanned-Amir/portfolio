@@ -171,6 +171,7 @@ nav > .container > i{
     border-radius: var(--border-radius); 
 }
 nav.hd {
+    height: 20%;
 
 }
 
