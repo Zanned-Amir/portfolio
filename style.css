@@ -636,7 +636,6 @@ nav {
 
 }
 
-/* Ensuring global link styles do not interfere */
 a:link, a:visited {
     color: inherit;
     text-decoration: none;
@@ -658,7 +657,7 @@ a:hover, a:focus, a:active {
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .grid-project {
         grid-template-columns: repeat(1, minmax(370px, 1fr));
         grid-template-rows: repeat(1, minmax(567px, 1fr));
